@@ -11,6 +11,11 @@ Fraud Detection Analysis Using Python
 7. Number_of_Transactions_Last_24H: A sudden spike in transaction volume might indicate fraudulent behavior.
 8. Payment_Method: Certain payment methods (like UPI or Net Banking) might be more secure than others.
 9. Fraudulent: The target variable used to train the fraud detection model.
+# Objective 
+ Identify fraudulent transations and purchace behaviour of customer.
+# Data Wrangling
+1. Identified null values in datasets.
+2. Checked for data types of columns.
 # Data Insights
 1. Approximately 4.92% of transactions are fraudulent.
 Online Purchases (5.19%) and POS Payments (5.01%) have the highest fraud rates, while ATM Withdrawals (4.65%) have the lowest.
